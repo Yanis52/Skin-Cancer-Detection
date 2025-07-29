@@ -1,0 +1,9 @@
+tensorflow
+kagglehub
+numpy
+pandas
+matplotlib
+seaborn
+shutil
+Augmentor
+scikit-learn
