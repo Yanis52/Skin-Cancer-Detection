@@ -28,13 +28,13 @@ Ce projet met en œuvre un modèle CNN basé sur le mécanisme d’attention CBA
 
 ##  Résultats
 
-- Accuracy validation finale : **92 % à 98 %**
+- Accuracy validation finale : ** 98 %**
 - Matrice de confusion, courbes d’apprentissage, etc. disponibles dans les annexes du mémoire.
 
 ##  Fichiers
 
-- `cbam_model.ipynb` : notebook du modèle complet
-- `augmentor.ipynb` : génération des données augmentées
+- `main.ipynb` : notebook du modèle complet
+- `augmentation_data.ipynb` : génération des données augmentées
 - `requirements.txt` : dépendances pour l’exécution
 
 ## Par
